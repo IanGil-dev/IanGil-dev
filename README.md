@@ -29,5 +29,5 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 
 
 <p align="center">
-<i>"A tecnologia move o mundo?"</i> 
+<i>"A tecnologia move o mundo"</i> 
 </p>
