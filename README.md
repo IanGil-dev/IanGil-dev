@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat&color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=[Welcome+to+my+profile!])](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IanGil-dev/IanGil-dev/main/iandev2.gif" />
+  <img src="https://raw.githubusercontent.com/IanGil-dev/IanGil-dev/main/iandev3.gif" />
 </p>
 </h3>
 
