@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=[Welcome+to+my+profile!])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oswald&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=[Welcome+to+my+profile!])](https://git.io/typing-svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/IanGil-dev/IanGil-dev/main/iandev3.gif" />
 </p>
