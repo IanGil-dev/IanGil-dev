@@ -9,8 +9,6 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universida
 Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
 
 <h3 align="left">My Stack:</h3> <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=IanGil-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanGil-dev&layout=compact&theme=tokyonight" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -28,7 +26,8 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
 </div>
-
+  <img src="https://github-starts-extended.vercel.app/api?username=IanGil-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-starts-extended.vercel.app/api/top-langs/?username=IanGil-dev&layout=compact&theme=tokyonight" />
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ianGil-dev/ianGil-dev/pacman-output/pacman-contribution-graph-dark.svg">
